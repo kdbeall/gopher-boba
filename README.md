@@ -1,2 +1,2 @@
 # gopher-boba
-Toy project to create a 
+Toy database and RESTful API of boba
